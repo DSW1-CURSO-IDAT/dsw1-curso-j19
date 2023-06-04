@@ -1,1 +1,1 @@
-# dsw1-curso-j19
+# Curso: Desarrollo de Servicios Web (Grupo V.05.2023-IIE)
